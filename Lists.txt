@@ -135,7 +135,6 @@ https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
-https://objects.githubusercontent.com/github-production-release-asset-2e65be/371767474/9590e70a-f03b-4bd5-9d1d-ae9a10d330f7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221118T210142Z&X-Amz-Expires=300&X-Amz-Signature=231196c24bac46a1f0a0eb938402c84876d7dddd8e1c59271e51b733d028d299&X-Amz-SignedHeaders=host&actor_id=42102927&key_id=0&repo_id=371767474&response-content-disposition=attachment%3B%20filename%3Dblack_domain.txt&response-content-type=application%2Foctet-stream
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plus.txt
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
