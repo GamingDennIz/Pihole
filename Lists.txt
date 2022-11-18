@@ -9,7 +9,6 @@ https://v.firebog.net/hosts/neohostsbasic.txt
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 https://hostsfile.mine.nu/hosts0.txt
-https://hostsfile.org/Downloads/hosts.txt
 https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://v.firebog.net/hosts/Kowabit.txt
 https://adblock.mahakala.is
@@ -119,7 +118,6 @@ https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/hosts.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
-https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 https://raw.githubusercontent.com/RedDragonWebDesign/block-everything/master/block-everything.txt
 https://mkb2091.github.io/blockconvert/output/adblock.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Blockzilla.txt
@@ -137,12 +135,10 @@ https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plus.txt
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
-https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist1.txt
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist2.txt
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist3.txt
-https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist4.txt
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
