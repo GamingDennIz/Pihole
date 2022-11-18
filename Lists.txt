@@ -140,10 +140,10 @@ https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plu
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
-https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/blob/master/Blocklist/filter_blocklist1.txt
-https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/blob/master/Blocklist/filter_blocklist2.txt
-https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/blob/master/Blocklist/filter_blocklist3.txt
-https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/blob/master/Blocklist/filter_blocklist4.txt
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist1.txt
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist2.txt
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist3.txt
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist4.txt
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
