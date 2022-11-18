@@ -8,8 +8,6 @@ https://winhelp2002.mvps.org/hosts.txt
 https://v.firebog.net/hosts/neohostsbasic.txt
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
-https://hostsfile.mine.nu/hosts0.txt
-https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://v.firebog.net/hosts/Kowabit.txt
 https://adblock.mahakala.is
 https://adaway.org/hosts.txt
@@ -81,10 +79,8 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
-https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
@@ -106,7 +102,6 @@ https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Youtube-Ads-List.txt
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 https://easylist.to/easylist/easylist.txt
 https://gitlab.com/DandelionSprout/adfilt/raw/master/Sensitive%20lists/TabloidRemover.txt
 https://gitlab.com/DandelionSprout/adfilt/raw/master/AntiPCPriceHiderList.txt
@@ -115,7 +110,6 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 https://mkb2091.github.io/blockconvert/output/adblock.txt
 https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/hosts.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/RedDragonWebDesign/block-everything/master/block-everything.txt
