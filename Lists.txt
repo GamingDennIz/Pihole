@@ -102,7 +102,6 @@ https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Youtube-Ads-List.txt
-https://easylist.to/easylist/easylist.txt
 https://gitlab.com/DandelionSprout/adfilt/raw/master/Sensitive%20lists/TabloidRemover.txt
 https://gitlab.com/DandelionSprout/adfilt/raw/master/AntiPCPriceHiderList.txt
 https://gitlab.com/DandelionSprout/adfilt/raw/master/Sensitive%20lists/AntiPreacherList.txt
@@ -111,7 +110,6 @@ https://mkb2091.github.io/blockconvert/output/adblock.txt
 https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
-https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/RedDragonWebDesign/block-everything/master/block-everything.txt
 https://mkb2091.github.io/blockconvert/output/adblock.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Blockzilla.txt
@@ -120,19 +118,14 @@ https://mkb2091.github.io/blockconvert/output/hosts.txt
 https://mkb2091.github.io/blockconvert/output/domains.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://block.energized.pro/ultimate/formats/hosts.txt
-https://easylist.to/easylist/easylist.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
-https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plus.txt
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
-https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist1.txt
-https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist2.txt
-https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist3.txt
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
