@@ -8,7 +8,6 @@ https://winhelp2002.mvps.org/hosts.txt
 https://v.firebog.net/hosts/neohostsbasic.txt
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
-https://v.firebog.net/hosts/Kowabit.txt
 https://adblock.mahakala.is
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
