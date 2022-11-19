@@ -107,7 +107,6 @@ https://gitlab.com/DandelionSprout/adfilt/raw/master/AntiPCPriceHiderList.txt
 https://gitlab.com/DandelionSprout/adfilt/raw/master/Sensitive%20lists/AntiPreacherList.txt
 https://mkb2091.github.io/blockconvert/output/adblock.txt
 https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
-https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://mkb2091.github.io/blockconvert/output/adblock.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Blockzilla.txt
